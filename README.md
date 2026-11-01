@@ -94,11 +94,9 @@ AI-Document-Intelligence-System/
 ### 1. Clone the repository
 
 ```cmd
-git clone https://github.com/YOUR-USERNAME/AI-Document-Intelligence-System.git
+git clone https://github.com/pachareshreyash41-dev/AI-Document-Intelligence-System.git
 cd AI-Document-Intelligence-System
 ```
-
-Replace `YOUR-USERNAME` with your GitHub username and use the exact repository URL after creating the repository.
 
 ### 2. Create and activate a virtual environment
 
@@ -234,7 +232,7 @@ The application writes runtime files to `data/uploads/`, `data/processed/`, `dat
 
 AI/ML portfolio project focused on document automation, OCR, NLP, and machine learning.
 
-- GitHub: `https://github.com/YOUR-USERNAME`
+- GitHub: `https://github.com/pachareshreyash41-dev`
 - LinkedIn: Add your LinkedIn profile URL
 
 > Update the GitHub and LinkedIn placeholders before publishing.
