@@ -1,0 +1,21 @@
+# Web UI
+streamlit>=1.35.0
+
+# Config
+python-dotenv>=1.0.0
+
+# Document loading & OCR
+PyMuPDF>=1.24.0
+Pillow>=10.0.0
+opencv-python-headless>=4.9.0
+pytesseract>=0.3.10
+
+# NLP / ML
+scikit-learn>=1.4.0
+joblib>=1.3.0
+numpy>=1.26.0
+pandas>=2.1.0
+spacy>=3.7.0
+
+# Testing
+pytest>=8.0.0
